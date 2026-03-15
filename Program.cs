@@ -5,3 +5,4 @@ Console.WriteLine(GetAverage(numbers));
 int max = numbers.Max();
 Console.WriteLine($"Max number from numbers: {max}");
 // Commit in Program.cs
+Console.WriteLine("Branch!");
